@@ -1,0 +1,21 @@
+
+<html><head><title>wayne state university </title></head>
+<body>
+<p class="title"><b>Women's Basketball Reads at Hamilton Elementary</b></p>
+
+<p class="story">Eleven (11) of the Warrior student-athletes and head coach Carrie Lohr took time to read to students between kindergarten and fifth grade.  During the three hours they spent at the school, WSU divided into groups and rotated every 20 minutes, reading in 18 different classrooms.
+
+
+<a href="https://wsuathletics.com/" class="sister" id="link">Lebron james</a>,
+# <a href="https://wsuathletics.com/" class="sister" id="link2">Tech News<a/a>;
+Reading to the students at Hamilton Elementary was a wonderful experience," commented freshman Alexis Miller (Howell, Mich.).  "It was amazing to help educate younger students on the importance of hard work and determination.  I had so much fun with the kids and I was happy to give back to the community."
+
+</p>
+<p class="story">....</p>
+
+<b class="boldest">More news</b>
+<blockquote class="boldest">"What was once a vacant retail space in the heart of campus was transformed into the W Food Pantry, which has provided students in need with free access to nutritious food and basic necessities, all while uniting the campus community and breaking down stigmas.""</blockquote>
+<b id="1">Helping where it’s needed most: The W Food Pantry celebrates anniversary, growing impact</b>
+<blockquote class="boldest">"“It’s incredible to see how the campus community has embraced The W so fully, so soon,” said Rainesha Williams-Fox, coordinator of student life wellness. “The reality is that there are college students — here and across the country — experiencing food insecurity.  Wayne State is working to remove that barrier and provide assistance, without judgment, wherever possible. No student should have to choose between buying textbooks or buying food.”"</blockquote>"</blockquote>
+<b another-attribute="1" id="verybold">Test 2</b>
+<p id="my id"></p>

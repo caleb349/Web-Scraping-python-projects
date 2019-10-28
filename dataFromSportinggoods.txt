@@ -1,0 +1,19 @@
+
+<html><head><title>SPORTING NEWS</title></head>
+<body>
+<p class="title"><b>lebron james stunned after magic johnson retires</b></p>
+
+<p class="story">LeBron James was "stunned" by Johnson's decision. Additionally, Johnson and general manager Rob Pelinka met Saturday with James and his agent, Rich Paul, and there was no indication Johnson was going to make such a big announcement. 
+<a href="http://www.sportingnews.com/us/nba/news/lebron-james-stunned-magic-johnson-resignation-from-lakers/1ih84sn0hamqo18hucphisucrg" class="sister" id="link">Lebron james</a>,
+# <a href="http://example.com/lacie" class="sister" id="link2">Sporting news<a/a>;
+With the sudden change in the Lakers' front office, ESPN reports the plan right now is for Pelinka to stay in his position and he likely will earn more power.  
+
+</p>
+<p class="story">....</p>
+
+<b class="boldest">More news</b>
+<blockquote class="boldest">"I was happier when I wasn’t the president. When you have to make trades, you’re not happy, when you like people. I think Luke is a good man. I like Luke a lot. So what we have different opinions about different things. That’s ok. My concern is my relationship with my sister, Jeanie Buss. That’s all I care about. All the rest of the stuff doesn’t matter."</blockquote>
+<b id="1">Malvin Johnson hearbreaking Quote</b>
+<blockquote class="boldest">"<blockquote class="boldest">"I was happier when I wasn’t the president. When you have to make trades, you’re not happy, when you like people. I think Luke is a good man. I like Luke a lot. So what we have different opinions about different things. That’s ok. My concern is my relationship with my sister, Jeanie Buss. That’s all I care about. All the rest of the stuff doesn’t matter."</blockquote>"</blockquote>
+<b another-attribute="1" id="verybold">Test 2</b>
+<p id="my id"></p>

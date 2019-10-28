@@ -1,0 +1,21 @@
+
+<html><head><title>Today's Top Picks: Two motivation plays for NBA's regular season finale, plus an MLB total to jump on</title></head>
+<body>
+<p class="title"><b>Amazon’s Alexa isn’t just AI — thousands of humans are listening</b></p>
+
+<p class="story">Amazon, like many other tech companies investing heavily in artificial intelligence, has always been forthright about its Alexa assistant being a work in progress. “The more data we use to train these systems, the better Alexa works, and training Alexa with voice recordings from a diverse range of customers helps ensure Alexa works well for everyone,” reads the company’s Alexa FAQ.
+
+
+<a href="https://www.theverge.com/2019/4/10/18305378/amazon-alexa-ai-voice-assistant-annotation-listen-private-recordings" class="sister" id="link">Lebron james</a>,
+# <a href="https://www.theverge.com/tech" class="sister" id="link2">Tech News<a/a>;
+n many cases, human beings make those calls, by listening to a recording of the exchange and correctly labeling the data so that it can be fed back into the system. That process is very broadly known as supervised learning, and in some cases it’s paired with other, more autonomous techniques in what’s known as semi-supervised learning. Apple, Google, and Facebook all make use of these techniques in similar ways, and both Siri and Google Assistant improve over time thanks to supervised learning requiring human eyes and ears
+
+</p>
+<p class="story">....</p>
+
+<b class="boldest">More news</b>
+<blockquote class="boldest">"In this case, Bloomberg is shedding light on the army of literal thousands of Amazon employees, some contractors and some full-time workers, around the world that are tasked with parsing Alexa recordings to help improve the assistant over time. While there’s certainly nothing inherently nefarious about this approach, Bloomberg does point out that most customers don’t often realize this is occurring. Additionally, there’s room for abuse. Recordings might contain obviously identifiable characteristics and biographical information about who is speaking. It’s also not known how long exactly these recordings are stored, and whether the information has ever been stolen by a malicious third party or misused by an employee."</blockquote>
+<b id="1">AMAZON STORES THOUSANDS OF VOICE RECORDINGS, AND IT’S UNCLEAR IF THERE’S EVER BEEN MISUSE</b>
+<blockquote class="boldest">"<blockquote class="boldest">"Amazon is actively looking for ways to move away from the kind of supervised learning that that requires extensive transcribing and annotation. Wired noted in a report late last year about how Amazon is using new, more cutting-edge techniques like so-called active learning and transfer learning to cut down on error rates and to expand Alexa’s knowledge base, even as it adds more skills, without requiring it add more humans into the mix."</blockquote>"</blockquote>
+<b another-attribute="1" id="verybold">Test 2</b>
+<p id="my id"></p>

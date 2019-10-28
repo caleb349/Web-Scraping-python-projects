@@ -1,0 +1,21 @@
+
+<html><head><title>FoxNews</title></head>
+<body>
+<p class="title"><b>Dems rage against Barr for backing claims of Trump campaign ‘spying’ by FBI</b></p>
+
+<p class="story">Prominent Democrats lined up to hammer Attorney General Bill Barr for testifying Wednesday that federal authorities had spied on the Trump campaign in 2016, with one top House Democrat charging that Barr is not acting "in the best interest of the DOJ or the country."
+
+
+<a href="https://www.foxnews.com/politics/dems-rage-against-barr-for-backing-claims-of-trump-campaign-spying-by-fbi" class="sister" id="link">Lebron james</a>,
+# <a href="https://www.foxnews.com/politics/dems-rage-against-barr-for-backing-claims-of-trump-campaign-spying-by-fbi" class="sister" id="link2">Tech News<a/a>;
+Despite mounting evidence that the FBI pursued an array of efforts to gather intelligence from within the Trump campaign -- and the fact that the FBI successfully pursued warrants to surveil a former Trump aide in 2016 -- House Majority Leader Steny Hoyer, D-Md., told Fox News that Barr's loyalties were compromised.
+
+</p>
+<p class="story">....</p>
+
+<b class="boldest">More news</b>
+<blockquote class="boldest">"House Intelligence Committee Chairman Adam Schiff, D-Calif., added in a statement that Barr "should not casually suggest that those under his purview engaged in ‘spying’ on a political campaign.""</blockquote>
+<b id="1">COMEY MEMOS CONTAINED FAR MORE CLASSIFIED INFO THAN PREVIOUSLY KNOWN</b>
+<blockquote class="boldest">"Trump, for his part, has vowed to release surveillance warrant applications used to monitor his former aide, Carter Page, beginning in October 2016. The FBI's partisan sources in those applications have come under scrutiny, and FBI text messages obtained by Fox News show high-level concerns at the DOJ as to the credibility of sources presented to the Foreign Intelligence Surveillance Act (FISA) court."</blockquote>"</blockquote>
+<b another-attribute="1" id="verybold">Test 2</b>
+<p id="my id"></p>

@@ -1,0 +1,25 @@
+
+<html><head><title>FORBES NEWS </title></head>
+<body>
+<p class="title"><b>'iPhone Pro' Leak Reveals Apple's Expensive Surprise</b></p>
+
+<p class="story">Alongside the expected iPhone XS, iPhone XS Max and iPhone XR updates, Mac Otakara says Apple is preparing additional 6.1-inch and 6.5-inch models with OLED displays, thinner chassis, similar triple array cameras but with larger sensors, reverse wireless charging and bundled 18W Lightning-to-USB-C fast chargers.
+
+
+<a href="https://www.forbes.com/sites/gordonkelly/2019/04/09/apple-iphone-pro-upgrade-new-iphone-xs-max-xr-price-cost/#10c5861044de" class="sister" id="link">Lebron james</a>,
+# <a href="https://www.forbes.com/sites/gordonkelly/2019/04/09/apple-iphone-pro-upgrade-new-iphone-xs-max-xr-price-cost/#10c5861044de" class="sister" id="link2">Tech News<a/a>;
+Mac Otakara previously stated the new XS, XS Max and XR updates will ship with slow chargers and identical chassis while the XR will retain its cheaper LCD display. All of which indicates the introduction of a new flagship iPhone tier above the XSes - potentially the long expected ‘iPhone Pro’ range.
+
+</p>
+<p class="story">....</p>
+
+<b class="boldest">More news</b>
+<blockquote class="boldest">"If correct, I think this is madness. Yes, Samsung has launched four Galaxy S10 models and no less than four Galaxy Note 10 models are expected to join them, but this is because of a split between 5G and 4G versions. 5G isn’t available everywhere and the hardware carries a significant price premium, so the additional versions make sense.
+
+""</blockquote>
+<b id="1">But iPhones will not have 5G this year</b>
+<blockquote class="boldest">"“Yes, Apple has one truly radical folding iPhone in development and a crowd-pleasing iPhone SE2 may arrive in 2020. But jacking up prices for an incrementally improved new flagship iPhone range is not how you win fans while they wait…
+
+”"</blockquote>"</blockquote>
+<b another-attribute="1" id="verybold">Test 2</b>
+<p id="my id"></p>
