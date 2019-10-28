@@ -13,3 +13,4 @@ One file for each website's data (5 files in total)
 Print out the URL of the site you scraped at the beginning of your text file, followed by 3 line breaks
 Print out the information underneath the line breaks in the text file
 Name the files accordingly (i.e., dataFromGoodreads.txt)
+.
